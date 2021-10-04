@@ -7,7 +7,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>CAMPOO</title>
+		<title>CAMPOO TEST</title>
 	</head>
 	<body>
 		<div id="wrap">
